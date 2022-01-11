@@ -29,35 +29,6 @@ dpkg -l | grep <package>
 sudo hostnamectl set-hostname <hostname>
 ```
 
-### Basic PATH
-
-```bash
-# sudo rules
-/etc/sudoers.d/<filename>
-
-# sudo log
-/var/log/sudo/<filename>
-
-# SSH configuration
-/etc/ssh/sshd_config
-
-# for password policy
-/etc/login.defs
-/etc/pam.d/common-password
-/etc/security/pwquality.conf
-
-# monitoring script
-/usr/local/sbin/monitoring.sh
-
-# ftp directory
-/home/<username>/ftp
-/etc/vsftpd.conf
-/etc/vsftpd.userlist
-
-# wordpress folder
-/var/www/html
-```
-
 [<div align="right">back to top ⇧</div>](#table-of-contents)
 
 ---
