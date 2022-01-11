@@ -1,3 +1,4 @@
+[◀️ Go Back to README](https://github.com/psudo-dev/42cursus_04_born2beroot/)
 
 ### Table of Content   <!-- omit in toc -->
 
@@ -12,6 +13,8 @@
 - [Bonus](#bonus)
   - [WordPress](#wordpress)
   - [FTP](#ftp)
+
+---
 
 ### Basic Commands
 
@@ -54,6 +57,8 @@ sudo hostnamectl set-hostname <hostname>
 # wordpress folder
 /var/www/html
 ```
+
+[<div align="right">back to top ⇧</div>](#table-of-contents)
 
 ---
 
@@ -208,6 +213,8 @@ TZ_ALPHA=$(date +"%Z")
 TZ_NUM=$(date +"%:z")
 ```
 
+[<div align="right">back to top ⇧</div>](#table-of-contents)
+
 ---
 
 ## Bonus
@@ -272,3 +279,5 @@ sudo service vsftpd restart
 /etc/vsftpd.conf
 /etc/vsftpd.userlistv
 ```
+
+[◀️ Go Back to README](https://github.com/psudo-dev/42cursus_04_born2beroot/)
