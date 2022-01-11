@@ -1,12 +1,12 @@
 # born2beroot   <!-- omit in toc -->
 
-#### 42 Cursus  <!-- omit in toc -->
+## [42 Cursus](https://github.com/psudo-dev/42cursus_index)  <!-- omit in toc -->
 
 born2beroot project for [42 | São Paulo](https://github.com/42sp)
 
 [École 42/42 School](https://github.com/42School):
 
-- ***[Level 01](https://github.com/psudo-dev/42cursus_index)***
+- ***[Level 01](https://github.com/psudo-dev/42cursus_index#42-cursus--index)***
   - ***04. Born 2 Be Root***
 
 ### Table of Contents  <!-- omit in toc -->
@@ -21,7 +21,7 @@ born2beroot project for [42 | São Paulo](https://github.com/42sp)
 
 ## Project
 
-This project is about setting up a Virtual Machine using either Debian or CentOS but without a graphic interface. I guess this is valuable to learn the basics about installing the OS setting up and maintaining a server but also the hardware and virtual machines, since all of these can be pretty useful knowledge for a developer regardless of their field of work.
+This project is about setting up a **Virtual Machine** using either **Debian** or **CentOS** but without a graphic interface. I guess this is valuable to learn the basics about installing the OS setting up and maintaining a server but also the hardware and virtual machines, since all of these can be pretty useful knowledge for a developer regardless of their field of work.
 
 ## Mandatory Part
 
@@ -35,7 +35,7 @@ There are a few requirements but I won't get into the details of each thing.
 
 ## Bonus Part
 
-The bonus needs a different LVM setup, a bit more complex than the mandatory part since it has to be done manually. In the bonus we are setting up a WordPress Server and an extra service like a File Transfer Protocol (FTP).
+The bonus needs a different **LVM** setup, a bit more complex than the mandatory part since it has to be done manually. In the bonus we are setting up a WordPress Server and an extra service like a **File Transfer Protocol (FTP)**.
 
 ## Setup
 
