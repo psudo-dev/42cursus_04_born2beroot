@@ -1,6 +1,6 @@
 [◀️ Go Back to README](https://github.com/psudo-dev/42cursus_04_born2beroot/)
 
-### Table of Content   <!-- omit in toc -->
+### Table of Contents   <!-- omit in toc -->
 
 - [Mandatory](#mandatory)
   - [LVM Setup](#lvm-setup)
@@ -29,7 +29,7 @@ dpkg -l | grep <package>
 sudo hostnamectl set-hostname <hostname>
 ```
 
-[<div align="right">back to top ⇧</div>](#table-of-contents)
+[<div align="right">back to top ⇧</div>](#table-of-content---)
 
 ---
 
@@ -184,7 +184,7 @@ TZ_ALPHA=$(date +"%Z")
 TZ_NUM=$(date +"%:z")
 ```
 
-[<div align="right">back to top ⇧</div>](#table-of-contents)
+[<div align="right">back to top ⇧</div>](#table-of-content---)
 
 ---
 
