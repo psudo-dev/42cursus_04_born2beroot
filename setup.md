@@ -29,7 +29,7 @@ dpkg -l | grep <package>
 sudo hostnamectl set-hostname <hostname>
 ```
 
-[<div align="right">back to top ⇧</div>](#table-of-content---)
+[<div align="right">back to top ⇧</div>](#table-of-contents---)
 
 ---
 
@@ -184,7 +184,7 @@ TZ_ALPHA=$(date +"%Z")
 TZ_NUM=$(date +"%:z")
 ```
 
-[<div align="right">back to top ⇧</div>](#table-of-content---)
+[<div align="right">back to top ⇧</div>](#table-of-contents---)
 
 ---
 
