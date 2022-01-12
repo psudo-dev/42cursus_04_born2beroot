@@ -31,7 +31,7 @@ There are a few requirements but I won't get into the details of each thing.
 - how to setup the Logic Volume Management (LVM)
 - SSH, sudo, firewall, etc.
 - strong password policy
-- a monitoring script with some basic system informations
+- a [monitoring script](monitoring_script.md) with some basic system informations
 
 ## Bonus Part
 

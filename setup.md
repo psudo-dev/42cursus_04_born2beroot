@@ -157,6 +157,8 @@ sudo crontab [-u <username>] -l
 
 ### Monitoring script
 
+You can check the script layout [here](monitoring_script.md).
+
 ```bash
 # commands
 awk
