@@ -1,5 +1,6 @@
+[◀️ Go Back to README](https://github.com/psudo-dev/42cursus_04_born2beroot/)
 
-### Table of Content   <!-- omit in toc -->
+### Table of Contents   <!-- omit in toc -->
 
 - [Mandatory](#mandatory)
   - [LVM Setup](#lvm-setup)
@@ -12,6 +13,8 @@
 - [Bonus](#bonus)
   - [WordPress](#wordpress)
   - [FTP](#ftp)
+
+---
 
 ### Basic Commands
 
@@ -26,34 +29,7 @@ dpkg -l | grep <package>
 sudo hostnamectl set-hostname <hostname>
 ```
 
-### Basic PATH
-
-```bash
-# sudo rules
-/etc/sudoers.d/<filename>
-
-# sudo log
-/var/log/sudo/<filename>
-
-# SSH configuration
-/etc/ssh/sshd_config
-
-# for password policy
-/etc/login.defs
-/etc/pam.d/common-password
-/etc/security/pwquality.conf
-
-# monitoring script
-/usr/local/sbin/monitoring.sh
-
-# ftp directory
-/home/<username>/ftp
-/etc/vsftpd.conf
-/etc/vsftpd.userlist
-
-# wordpress folder
-/var/www/html
-```
+[<div align="right">back to top ⇧</div>](#table-of-contents---)
 
 ---
 
@@ -210,6 +186,8 @@ TZ_ALPHA=$(date +"%Z")
 TZ_NUM=$(date +"%:z")
 ```
 
+[<div align="right">back to top ⇧</div>](#table-of-contents---)
+
 ---
 
 ## Bonus
@@ -274,3 +252,5 @@ sudo service vsftpd restart
 /etc/vsftpd.conf
 /etc/vsftpd.userlistv
 ```
+
+[◀️ Go Back to README](https://github.com/psudo-dev/42cursus_04_born2beroot/)
