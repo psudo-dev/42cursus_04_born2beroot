@@ -33,6 +33,8 @@ There are a few requirements but I won't get into the details of each thing.
 - strong password policy
 - a [monitoring script](monitoring_script.md) with some basic system informations
 
+![monitoring.sh](monitoring_script.png)
+
 ## Bonus Part
 
 The bonus needs a different **LVM** setup, a bit more complex than the mandatory part since it has to be done manually. In the bonus we are setting up a WordPress Server and an extra service like a **File Transfer Protocol (FTP)**.
